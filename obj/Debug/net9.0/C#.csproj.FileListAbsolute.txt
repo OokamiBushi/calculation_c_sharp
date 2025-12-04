@@ -1,0 +1,28 @@
+/Users/ookamibushi/Программирование/C#/bin/Debug/net9.0/C#
+/Users/ookamibushi/Программирование/C#/bin/Debug/net9.0/C#.deps.json
+/Users/ookamibushi/Программирование/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/ookamibushi/Программирование/C#/bin/Debug/net9.0/C#.dll
+/Users/ookamibushi/Программирование/C#/bin/Debug/net9.0/C#.pdb
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/C#.dll
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/C#.pdb
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/ookamibushi/Программирование/C#/obj/Debug/net9.0/ref/C#.dll
+/Users/ookamibushi/Программирование/C#/C# 1/bin/Debug/net9.0/C#
+/Users/ookamibushi/Программирование/C#/C# 1/bin/Debug/net9.0/C#.deps.json
+/Users/ookamibushi/Программирование/C#/C# 1/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/ookamibushi/Программирование/C#/C# 1/bin/Debug/net9.0/C#.dll
+/Users/ookamibushi/Программирование/C#/C# 1/bin/Debug/net9.0/C#.pdb
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/C#.dll
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/refint/C#.dll
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/C#.pdb
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/ookamibushi/Программирование/C#/C# 1/obj/Debug/net9.0/ref/C#.dll
